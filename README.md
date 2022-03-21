@@ -15,10 +15,16 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+## Para asegurarse de que no tenga errores el codigo
 ```
 npm run lint
 ```
+
+## Para empezar a correr el servidor en el navegador.
+```
+serve -s dist
+```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
