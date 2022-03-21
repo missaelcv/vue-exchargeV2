@@ -1,21 +1,21 @@
 # vue-excharge
 
-## Project setup
+### Project setup
 ```
 npm vue install -g @cli
 ```
 
-### Compiles and hot-reloads for development
+#### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+#### Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Para asegurarse de que no tenga errores el codigo
+#### Para asegurarse de que no tenga errores el codigo
 ```
 npm run lint
 ```
@@ -25,7 +25,7 @@ npm run lint
 serve -s dist
 ```
 
-### Esto genera una aplicación vue local con una interfaz de usuario amigable nos puede general varios proyectos
+#### Esto genera una aplicación vue local con una interfaz de usuario amigable nos puede general varios proyectos
 ```
 vue ui
 ```
